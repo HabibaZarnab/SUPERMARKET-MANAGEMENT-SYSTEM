@@ -83,3 +83,4 @@ Some possible improvements for future versions include:
 - Adding a more advanced user interface
 ## Project Purpose
 This project was developed to practice and apply fundamental C++ programming concepts in a practical, real-world style application.
+![Supermarket System Ui](Supermarket.png)
